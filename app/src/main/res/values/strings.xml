@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BelajarXML</string>
+
+    <string name="teks_scroll">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur euismod luctus nibh, in mollis arcu vulputate sed. Ut sit amet bibendum turpis, ut ornare ligula. Donec eleifend malesuada varius. Donec luctus consectetur imperdiet. Vivamus eleifend ante in velit fermentum consectetur. Etiam elementum euismod felis. Praesent bibendum eu arcu sit amet tempor.
+
+Curabitur quis tempus magna. Sed tristique vestibulum felis. Vivamus ut maximus felis. Aliquam nec interdum arcu. Quisque sed ex in ante vehicula commodo. Proin condimentum scelerisque diam in elementum. Nam ac sapien rutrum nulla mollis ornare id sed est. Ut tellus nulla, vulputate vel tincidunt quis, mollis at turpis. Nunc maximus massa sit amet turpis blandit ornare. Cras a pellentesque urna.
+
+Sed feugiat ipsum vitae enim congue, et rhoncus tortor efficitur. Fusce fermentum gravida dui sit amet imperdiet. Ut dictum eros eu lorem condimentum pretium. Duis sit amet quam et elit ullamcorper fringilla. Cras placerat ex ac dictum iaculis. Vestibulum augue nulla, rutrum at interdum efficitur, commodo et sem. Sed viverra elit id mattis hendrerit. Donec varius lorem nec placerat interdum. Suspendisse eu consequat orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam elementum, velit non laoreet commodo, nisi massa sagittis est, at ullamcorper mauris lorem sed lectus. Proin dapibus dolor id mi imperdiet, nec aliquet ante bibendum. Aenean pretium dictum ante ut tincidunt. Quisque vitae erat porttitor, vehicula nisi eu, viverra ante.
+
+Quisque posuere maximus faucibus. In enim odio, lobortis pharetra pharetra vel, elementum sit amet felis. Cras libero ante, dictum non lorem sit amet, pulvinar porta ipsum. Aenean vitae ex in ligula molestie pulvinar. Suspendisse potenti. In vitae velit eget turpis blandit scelerisque id id odio. Pellentesque quis placerat eros, vel consequat tellus.
+
+    </string>
+
+</resources>
